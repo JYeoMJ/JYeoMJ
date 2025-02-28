@@ -1,6 +1,6 @@
 # Hi, I'm Jonathan 👋
 
-I'm a data scientist on a mission to make healthcare smarter through AI. I grew up loving mathematical proofs, spent time crafting transport policies, and now build ML systems for healthcare. I spend a lot of time in cafés with good books and even better cakes.
+I grew up loving mathematical proofs, spent time crafting transport policies, and now build AI/ML systems for healthcare. I spend a lot of time in cafés with good books and even better cakes.
 
 ## 🚀 What I Work On
 - 🏥 I develop ML solutions at Ng Teng Fong General Hospital, focusing on end-to-end systems from research to deployment.
@@ -11,4 +11,4 @@ I'm a data scientist on a mission to make healthcare smarter through AI. I grew 
 - ☕ **Café Explorer** – Always on the lookout for great coffee and pastries (I love cinammon rolls).
 - 🎵 **Music Enthusiast** – Attempting to learn **piano** (work in progress!).
 
-I'm best reached via [LinkedIn](https://www.linkedin.com/in/jyeomingjie/). Always open to interesting conversations about healthcare AI, end-to-end ML, or café recommendations!
+I'm best reached via [LinkedIn](https://www.linkedin.com/in/jyeomingjie/). Always open to interesting conversations about AIML, or café recommendations!
